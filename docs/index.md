@@ -1,4 +1,4 @@
-# In-Hand Following of Deformable Linear Objects Using Dexterous Fingers with Tactile Sensing
+# A Unified Interaction Control Framework for Safe Robotic Ultrasound Scanning with Human-Intention-Aware Compliance
 
 The paper is submitted to IROS 2024.
 
@@ -23,4 +23,4 @@ appropriate compliance. Specifically, the robot suspends or modulates its ongoin
 
 If you have any question, feel free to contact the authors: Xiangjie Yan, <yanxj20@mails.tsinghua.edu.cn>.
 
-<!-- Mingrui Yu's Homepage is at [mingrui-yu.github.io](https://mingrui-yu.github.io). -->
+My Homepage is at [yanseim.github.io](https://yanseim.github.io).
