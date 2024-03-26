@@ -1,4 +1,4 @@
 # DLO_following
-Repository for the IROS 2024 submission "In-Hand Following of Deformable Linear Objects Using Dexterous Fingers with Tactile Sensing"
+Repository for the IROS 2024 submission "A Unified Interaction Control Framework for Safe Robotic Ultrasound Scanning with Human-Intention-Aware Compliance"
 
-[[Website](https://mingrui-yu.github.io/DLO_following/)]
+[[Website](https://yanseim.github.io/iros24ultrasound/)]

@@ -4,26 +4,23 @@ The paper is submitted to IROS 2024.
 
 The source code will be released after the publication of the paper.
 
-[[arXiv](https://arxiv.org/abs/2403.12676)]
+<!-- [[arXiv](https://arxiv.org/abs/2403.12676)] -->
 
 
 ## Video
 
 <p align="center">
-<iframe width="800" height="450" src="./main_1080p.mp4" title="24_DLO_Following" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
+<iframe width="800" height="450" src="./iros24v2__.mp4" title="iros24 video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
 </p>
 
 
 ## Abstract
 
-Most research on deformable linear object (DLO) manipulation assumes rigid grasping. However, beyond rigid grasping and re-grasping, in-hand following is also an essential skill that humans use to dexterously manipulate DLOs, which requires continuously changing the grasp point by in-hand sliding while holding the DLO to prevent it from falling. Achieving such a skill is very challenging for robots without using specially designed but not versatile end-effectors. 
-Previous works have attempted using generic parallel grippers, but their robustness is unsatisfactory owing to the conflict between following and holding, which is hard to balance with a one-degree-of-freedom gripper. 
-In this work, inspired by how humans use fingers to follow DLOs, we explore the usage of a generic dexterous hand with tactile sensing to imitate human skills and achieve robust in-hand DLO following. 
-To enable the hardware system to function in the real world, we develop a framework that includes Cartesian-space arm-hand control, tactile-based in-hand 3-D DLO pose estimation, and task-specific motion design.
-Experimental results demonstrate the significant superiority of our method over using parallel grippers, as well as its great robustness, generalizability, and efficiency.
+The ultrasound scanning robot commonly works in an environment where human-robot interactions frequently arise. Most control methods for ultrasound scanning only consider one specific interaction situation, or use hard switching between different controllers for different situations, which reduces safety and efficiency. In this paper, we propose a unified interaction control framework for ultrasound scanning robots capable of handling all common interactions, distinguishing both human-intended and unintended types, and adapting with
+appropriate compliance. Specifically, the robot suspends or modulates its ongoing main task if the interaction is intended, e.g., when the doctor grasps the robot to lead the end effector actively. Furthermore, it can identify unintended interactions and avoid potential collision in the null space beforehand. Even if the collision has happened, it can become compliant with the collision in the null space and try to reduce its impact on the main task (where the scan is ongoing) kinematically and dynamically. The multiple situations are integrated into a unified controller with a smooth transition to deal with the interactions by exhibiting human-intention-aware compliance. Experimental results demonstrate the framework’s ability to cope with all common interactions including intended intervention and unintended collision in a collaborative carotid artery ultrasound scanning task.
 
 ## Contact
 
-If you have any question, feel free to contact the authors: Mingrui Yu, <mingruiyu98@gmail.com> .
+If you have any question, feel free to contact the authors: Xiangjie Yan, <yanxj20@mails.tsinghua.edu.cn>.
 
-Mingrui Yu's Homepage is at [mingrui-yu.github.io](https://mingrui-yu.github.io).
+<!-- Mingrui Yu's Homepage is at [mingrui-yu.github.io](https://mingrui-yu.github.io). -->
