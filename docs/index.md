@@ -4,13 +4,13 @@ The paper is submitted to IROS 2024.
 
 The source code will be released after the publication of the paper.
 
-<!-- [[arXiv](https://arxiv.org/abs/2403.12676)] -->
+[[arXiv of previous work](https://arxiv.org/abs/2403.12676)]
 
 
 ## Video
 
 <p align="center">
-<iframe width="800" height="450" src="./iros24v2__.mp4" title="iros24 video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
+<iframe width="800" height="450" src="./iros24v2.mp4" title="iros24 video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
 </p>
 
 
