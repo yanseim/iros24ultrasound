@@ -10,7 +10,7 @@ The source code will be released after the publication of the paper.
 ## Video
 
 <p align="center">
-<iframe width="800" height="450" src="./iros24v2.mp4" title="iros24 video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
+<iframe width="800" height="450" src="https://yanseim.github.io/assets/videos/iros2024_long.mp4" title="iros24 video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
 </p>
 
 
